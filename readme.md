@@ -12,6 +12,9 @@
 ### Starting
 Create Database using docker-compose that we provided
 
+### Submission
+Create a new branch with your name-surname-date and commit your changes.
+
 ### Database
 - Database: MSSQL
 - Account: SA
